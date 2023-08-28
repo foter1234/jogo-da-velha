@@ -1,0 +1,20 @@
+.um{
+    
+        border: solid;
+        height: 180px;
+        width: 200px;
+    
+}
+input{
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    color:aliceblue;
+}
+
+.bg-img {
+    border: solid;
+    height: 180px;
+    width: 200px;
+}
